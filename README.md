@@ -109,6 +109,7 @@ To ensure the application is running correctly, manually test the following core
 <img width="750" height="519" alt="INTERFACE WHILE EDITING DESCRIPTION" src="https://github.com/user-attachments/assets/2dc247b3-0ebe-4362-9520-f0f0d3c44d25" />
 
 @INTERFACE WHILE DELETING TASK
+
 <img width="521" height="407" alt="INTERFACE WHILE DELETING TASK" src="https://github.com/user-attachments/assets/e99b4589-726e-450f-a1e9-54df7723d080" />
 
 @INTERFACE WHILE ADDING TASK
