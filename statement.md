@@ -1,4 +1,4 @@
-# 📝 Project Documentation: To-Do List CRUD Application (VITYARTHI PROJECT)
+#  Project Title: To-Do List CRUD Application
 
 ---
 
